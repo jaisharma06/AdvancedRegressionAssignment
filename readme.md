@@ -41,7 +41,7 @@ The company wants to know:
 
 - **Optimal value of lambda for Ridge Regression = 10**
 - **Optimal value of lambda for Lasso = 0.001**
-- **R-Squre value for both ridge and lasso test data is 0.93**
+- **R-Squred value for both ridge and lasso test data is 0.93**
 
 ## Acknowledgements
 >This project was made as an assignment for the Advanced Linear Regression assignment. Thank you UpGrad for providing us an opportunity to work on this.
@@ -53,6 +53,6 @@ Name - Jai Prakash</br>
 Email - [jai.sharma06@live.com](mailto:jai.sharma06@live.com)</br>
 Phone - +91-8447490922
 
-PDF - [Solved Subjective Questions](https://github.com/jaisharma06/BikeSharingAssignment/blob/main/linear_regression__subjective_questions_solved.pdf)
+PDF - [Solved Subjective Questions](https://github.com/jaisharma06/AdvancedRegressionAssignment/blob/main/advanced_regression_subjection_questions_solved.pdf)
 
 *Feel free to contact :smiley:!*
